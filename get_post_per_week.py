@@ -11,5 +11,5 @@ def get_post_per_week(data:dict,month:int)->dict:
     Returns: 
         dict: a dictionary with the number of posts for each week.
     """
-    return
+    return 0
 
